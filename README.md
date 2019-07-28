@@ -1,5 +1,8 @@
-感谢网上大佬exe文件反编译关键部分删除后重新编译，向乐平镇老人活动中心提供支持服务。
+# 鸣谢：
+感谢网上大佬Hmily对exe文件反编译关键部分删除后重新编译，向乐平镇老人活动中心提供支持服务。
 
+
+# 下载地址：
 第1~20集下载地址：
 
 [https://pan.baidu.com/s/1ZNuLCAplifMVwSms3HI16g](https://pan.baidu.com/s/1ZNuLCAplifMVwSms3HI16g "https://pan.baidu.com/s/1ZNuLCAplifMVwSms3HI16g") 
@@ -12,7 +15,6 @@
 （压缩文件解压密码：lepingzhenlaorenhuodongzhongxin）
 
 第21集下载地址：[https://www.lanzous.com/i57iope](https://www.lanzous.com/i57iope "https://www.lanzous.com/i57iope")
-
 <font color=#FF0000 size=5>（观看后面视频请务必先下载这集）</font>
 
 （压缩文件解压密码：lepingzhenlaorenhuodongzhongxin）
@@ -25,7 +27,7 @@
 
 视听练耳礼包、学唱歌声乐大礼包：见第21集说明文档。
 
-如有疑问，请发邮件到
+如有疑问，请发邮件到：
 
 toassttest@gmail.com
 
